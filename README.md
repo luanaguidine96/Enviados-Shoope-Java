@@ -20,7 +20,7 @@ O projeto trabalha com armazenamento de pedidos em listas, processamento utiliza
 
 Praticar conceitos modernos de Java por meio de uma aplicação simples e baseada em uma situação do cotidiano.
 ---
-13/09/2026
+16/09/2026
 ---
 **Luana Guidine**
 
